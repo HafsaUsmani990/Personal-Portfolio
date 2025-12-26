@@ -315,8 +315,6 @@ button{
     height: 90px;
   }
 }
-
-/* SMALL MOBILES */
 @media (max-width: 400px) {
   #main {
     font-size: 24px;
@@ -346,4 +344,5 @@ button{
     font-size: 12px;
   }
 }
+
 
